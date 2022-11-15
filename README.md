@@ -15,6 +15,7 @@ Specs:
 - Compatible with MX, Kailh Choc v1 and Gateron low profile switches
 - needs 1n4148 SOD-323 diodes
 - 19mm standard spacing
+- angled sides by 20 degree
 
 Pros:
 - less than 100x100mm
