@@ -1,14 +1,14 @@
 # cheapis
 
 v0.1 issues:
-- SOD-323 diodes are not the easiest to solder, they're also not the cheapest
 - most ubs cables cannot be plugged in when the pro micro is soldered in an usual way (upright, with the usually included pins), because of the top middle buttons. It has to be solderes upside down, flush with the keyboard pcb.
+- not really an issue, but SOD-323 diodes are challenging to solder. They're also not the cheapest, although the difference is minuscule.
 
 Cheapis was inspired by ferris and sweep.
 
 It is the cheapest alternative to the above keyboards (that still has a PCB) as it is sub 100x100mm in size so it can be ordered for a very low price and it only needs one controller (Pro Micro or alternative).
 
-The first prototype is on it's way so v0.1 might not even work (but probably will as it is a very simple pcb).
+![cheapis keyboard!](/cheapis_v0.1_built.jpg "cheapis keyboard built")
 
 ![cheapis keyboard!](/cheapis_v0.1.jpg "cheapis keyboard")
 
